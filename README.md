@@ -1,8 +1,8 @@
 # Supporting code and experimental data for "Understanding and embracing imperfection in physical learning networks"
 
-S. Dillavou<sup>*</sup>, M. Guzman<sup>*</sup>, A. J. Liu, D. J. Durian
+S. Dillavou*, M. Guzman*, A. J. Liu, D. J. Durian
 
-[![DOI](https://zenodo.org/badge/623109002.svg)](https://zenodo.org/badge/latestdoi/623109002)
+[![DOI](https://zenodo.org/badge/XXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXX)
 
 
 This is the repository associated to the article "Understanding and embracing imperfection in physical learning networks".
