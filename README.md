@@ -2,7 +2,7 @@
 
 S. Dillavou*, M. Guzman*, A. J. Liu, D. J. Durian
 
-[![DOI](https://zenodo.org/badge/XXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXX)
+[![DOI](https://zenodo.org/badge/999780663.svg)](https://doi.org/10.5281/zenodo.15692010)
 
 
 This is the repository associated to the article "Understanding and embracing imperfection in physical learning networks".
